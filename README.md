@@ -18,6 +18,8 @@
 
 Наступним кроком запускаємо міграцію:
 ![4](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/3.png)
-<center> Рис. 4 - Успішний запуск міграції </center>
+<p align="center">
+Рис. 4 - Успішний запуск міграції </center>
+</p> 
 
 
