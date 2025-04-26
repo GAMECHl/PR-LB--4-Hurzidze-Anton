@@ -5,6 +5,11 @@
 ## Мета: Закріпити навички створення повноцінної серверної логіки для роботи з новою сутністю за допомогою TypeORM, Express та TypeDI. Ознайомитися з процедурою створення міграцій, перевірки змін у структурі бази даних та тестування REST API через Postman.
 
 #### 1) Використовуючи команду ```npm run migration:generate test``` виконуємо міграцію:
-
 ![1](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/1.png)
 Рис. 1 - Міграція
+
+Після виконання команди в каталозі ```migrations``` з'явится файл:
+![2](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/2.png)
+Рис. 2 - Файл формату ts в каталозі migrations
+
+
