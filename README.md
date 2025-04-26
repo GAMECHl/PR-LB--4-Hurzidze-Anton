@@ -12,7 +12,7 @@
 #### Далі потрібно змінити зміст міграції і ми побачимо файл з наступним змістом:
 ![3](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/3.png)
 #### Наступним кроком запускаємо міграцію:
-![4](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/3.png)
+![4](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/4.png)
 
 
 
