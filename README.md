@@ -7,25 +7,12 @@
 #### 1) Використовуючи команду ```npm run migration:generate test``` генеруємо міграцію:
 
 ![1](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/1.png)
-Рис. 1 - Міграція
-
-Після виконання команди в каталозі ```migrations``` з'явится файл:
-
+#### Після виконання команди в каталозі ```migrations``` з'явится файл:
 ![2](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/2.png)
-Рис. 2 - Файл формату ts в каталозі migrations
-
-Далі потрібно змінити зміст міграції і ми побачимо файл з наступним змістом:
-
+#### Далі потрібно змінити зміст міграції і ми побачимо файл з наступним змістом:
 ![3](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/3.png)
-<p align="center">
-Рис. 3 - Зміст файлу міграції
-</p>
-
-Наступним кроком запускаємо міграцію:
-
+#### Наступним кроком запускаємо міграцію:
 ![4](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/3.png)
-<p align="center">
-Рис. 4 - Успішний запуск міграції </center>
-</p> 
+
 
 
