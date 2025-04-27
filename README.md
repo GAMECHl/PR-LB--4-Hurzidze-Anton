@@ -24,3 +24,30 @@
 ![9](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/9.png)
 #### Та запустимо її командою ```npm run migration:run```:
 ![10](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/10.png)
+#### Після успішного виконання міграції, ми побачимо наступне в каталозі бази данних:
+![11](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/11.png)
+#### Для створення Post нам потрібно в каталозі /src/controllers/posts створити файл create.ts з наступним змістом:
+![12](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/12.png)
+#### Далі в каталозі /src/controllers/routes створюємо файл post.ts який визначе маршут:
+![13](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/13.png)
+#### В каталозі /src/controllers/posts створюємо файли - update.ts, delete.ts, show.ts, index.test.ts та index.ts:
+![14](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/14.png)
+#### Ці фвйли редактуємо наступним змістом:
+#### Update.ts:
+![15](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/15.png)
+#### Delete.ts:
+![16](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/16.png)
+#### Show.ts:
+![17](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/17.png)
+#### Index.ts:
+![18](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/18.png)
+#### Index.test.ts:
+![19](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/19.png)
+![20](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/20.png)
+#### У каталозі src/router/v1 створюємо файл post.ts з наступним змістом:
+![21](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/21.png)
+#### Наступним кроком змінюємо файл index.ts в каталозі src/routes щоб додати маршрут на пост:
+![22](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/22.png)
+#### Запускаємо сервер:
+![22](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/22.png)
+
