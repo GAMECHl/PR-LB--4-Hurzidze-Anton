@@ -49,5 +49,13 @@
 #### Наступним кроком змінюємо файл index.ts в каталозі src/routes щоб додати маршрут на пост:
 ![22](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/22.png)
 #### Запускаємо сервер:
-![22](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/22.png)
+![23](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/23.png)
+#### Переходимо в Postman та створюємо нову коллекцію:
+![24](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/24.png)
+#### Та додаємо 4 запити: Post, Get, Put, Delete:
+![24](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/24.png)
+#### Робимо ці запити:
+#### Post:
+
+
 
