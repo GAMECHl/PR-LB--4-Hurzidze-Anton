@@ -53,7 +53,7 @@
 #### Переходимо в Postman та створюємо нову коллекцію:
 ![24](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/24.png)
 #### Та додаємо 4 запити: Post, Get, Put, Delete:
-![24](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/24.png)
+![25](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/25.png)
 #### Робимо ці запити:
 #### Post:
 
