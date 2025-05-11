@@ -56,6 +56,14 @@
 ![25](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/25.png)
 #### Робимо ці запити:
 #### Post:
+![26](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/26.png)
+#### Get:
+![27](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/27.png)
+#### Delete:
+![28](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/28.png)
+#### Put:
+![29](https://github.com/GAMECHl/PR-LB--4-Hurzidze-Anton/blob/main/29.png)
 
+#### Висновок: Протягом виконання лабораторної роботи я закріпив навички створення повноцінної серверної логіки для роботи з новою сутністю за допомогою TypeORM, Express та TypeDI та ознайомився з процедурою створення міграцій, перевірки змін у структурі бази даних та тестування REST API через Postman.
 
 
